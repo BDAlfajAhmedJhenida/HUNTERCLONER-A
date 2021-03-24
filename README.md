@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevillHunter&show_icons=true)
+
 # BASIC COMMANDS
 
 ````
@@ -17,9 +17,9 @@ pip2 install mechanize
 
 # COMMANDS :
 ````
-git clone https://github.com/DevillHunter/HUNTERCLONER
+git clone https://github.com/DevillHunter/HUNTERCLONER-A
 
-cd HUNTERCLONER
+cd HUNTERCLONER-A
 ````
 
 
